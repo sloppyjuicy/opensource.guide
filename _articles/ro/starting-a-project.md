@@ -3,12 +3,6 @@ lang: ro
 title: Pornind un proiect cu sursă deschisă
 description: Învață mai multe despre lumea open source și pregătește-te să-ți lansezi primul proiect.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "„Care”-urile și „de ce”-urile open source"
-  should-i-launch-my-own-open-source-project: "Ar trebui să-mi lansez propriul meu proiect cu sursă deschisă?"
-  launching-your-own-open-source-project: "Lansându-ți propriul tău proiect cu sursă deschisă"
-  naming-and-branding-your-project: "Numirea și marcarea proiectului tău"
-  your-pre-launch-checklist: "Lista ta de verificări înainte de lansare"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -58,7 +52,7 @@ Prin comparație, într-un proces cu sursă închisă mergi la un restaurant și
 
 * **Adoptarea și remixarea:** Proiectele cu sursă deschisă pot fi folosite de oricine pentru aproape orice scop. Oamenii le pot folosi chiar și pentru a construi alte lucruri. [WordPress](https://github.com/WordPress), de exemplu, a început ca o bifurcație a unui proiect existent numit [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparența:** Oricine poate inspecta un proiect cu sursă deschisă pentru erori sau neconcordanțe. Transparența contează pentru guverne, cum ar fi [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) sau [Statele Unite](https://sourcecode.cio.gov/), industrii reglementate cum ar fi sectorul bancar sau asistența medicală, și software-uri de securitate cum ar fi [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparența:** Oricine poate inspecta un proiect cu sursă deschisă pentru erori sau neconcordanțe. Transparența contează pentru guverne, cum ar fi [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) sau [Statele Unite](https://www.cio.gov/2016/08/11/peoples-code.html), industrii reglementate cum ar fi sectorul bancar sau asistența medicală, și software-uri de securitate cum ar fi [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source nici nu este doar pentru software. Poți deschide sursa a orice de la seturi de date la cărți. Aruncă o privire la [GitHub Explore](https://github.com/explore) pentru idei despre sursa a ce altceva poți deschide.
 
